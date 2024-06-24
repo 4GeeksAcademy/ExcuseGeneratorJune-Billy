@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h2 {
+  margin-top: 30px;
+}
+
+#gen {
+  background-color: cornflowerblue;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+#gen:hover {
+  background-color: blue;
+}
+
+#gen:active {
+  background-color: darkblue;
+}
+
+body {
+  border: solid black 5px;
+}
